@@ -32,8 +32,8 @@ The pipeline consists of the following components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rag-pipeline.git
-   cd rag-pipeline
+   git clone https://github.com/Ashutosh-tec/MES-RAG.git
+   cd MES-RAG
    ```
 
 2. Install dependencies:
